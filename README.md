@@ -1,8 +1,8 @@
 <div align="center">
 
-# VulpiVox Event
+# FinHorizons Events
 
-**Slides, recordings, and resources from talks and events by [VulpiVox Lab](https://vulpivox.com)**
+**Slides, recordings, and resources from talks and events by [FinHorizons Foundation](https://finhorizons.org)**
 
 *Open Research Meets Practical Impact*
 
@@ -12,7 +12,7 @@
 
 ## About
 
-This repository hosts presentation materials, slides, and related resources from talks given by members of [VulpiVox Lab](https://vulpivox.com) at conferences, seminars, and industry events.
+This repository hosts presentation materials, slides, and related resources from talks given by members of [FinHorizons Foundation](https://finhorizons.org) at conferences, seminars, and industry events.
 
 ## Events
 
@@ -26,8 +26,8 @@ Each event gets its own folder named by date and event. Inside you will find the
 
 ## Contact
 
-- Web: [vulpivox.com](https://vulpivox.com)
-- GitHub: [@VulpiVox](https://github.com/VulpiVox)
-- Email: hello@vulpivox.com
+- Web: [finhorizons.org](https://finhorizons.org)
+- GitHub: [@finhorizons](https://github.com/finhorizons)
+- Email: [events@finhorizons.org](mailto:events@finhorizons.org)
 
 </div>
